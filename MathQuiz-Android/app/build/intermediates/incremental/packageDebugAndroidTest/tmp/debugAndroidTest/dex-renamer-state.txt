@@ -1,0 +1,4 @@
+#Tue Oct 27 20:32:58 WIB 2026
+base.0=D\:\\Coding Projects\\App business\\MathQuiz_Source_v1\\MathQuiz-Android\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

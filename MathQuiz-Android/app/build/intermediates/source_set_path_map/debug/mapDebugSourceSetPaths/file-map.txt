@@ -1,0 +1,7 @@
+com.rucifuruu.mathquiz.app-pngs-0 D:\Coding Projects\App business\MathQuiz_Source_v1\MathQuiz-Android\app\build\generated\res\pngs\debug
+com.rucifuruu.mathquiz.app-resValues-1 D:\Coding Projects\App business\MathQuiz_Source_v1\MathQuiz-Android\app\build\generated\res\resValues\debug
+com.rucifuruu.mathquiz.app-packageDebugResources-2 D:\Coding Projects\App business\MathQuiz_Source_v1\MathQuiz-Android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.rucifuruu.mathquiz.app-packageDebugResources-3 D:\Coding Projects\App business\MathQuiz_Source_v1\MathQuiz-Android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.rucifuruu.mathquiz.app-debug-4 D:\Coding Projects\App business\MathQuiz_Source_v1\MathQuiz-Android\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.rucifuruu.mathquiz.app-debug-5 D:\Coding Projects\App business\MathQuiz_Source_v1\MathQuiz-Android\app\src\debug\res
+com.rucifuruu.mathquiz.app-main-6 D:\Coding Projects\App business\MathQuiz_Source_v1\MathQuiz-Android\app\src\main\res

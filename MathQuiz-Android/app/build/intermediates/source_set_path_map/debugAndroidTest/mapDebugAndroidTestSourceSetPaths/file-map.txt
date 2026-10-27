@@ -1,0 +1,4 @@
+com.rucifuruu.mathquiz.test.app-androidTest-0 D:\Coding Projects\App business\MathQuiz_Source_v1\MathQuiz-Android\app\build\generated\res\resValues\androidTest\debug
+com.rucifuruu.mathquiz.test.app-mergeDebugAndroidTestResources-1 D:\Coding Projects\App business\MathQuiz_Source_v1\MathQuiz-Android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.rucifuruu.mathquiz.test.app-mergeDebugAndroidTestResources-2 D:\Coding Projects\App business\MathQuiz_Source_v1\MathQuiz-Android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.rucifuruu.mathquiz.test.app-debugAndroidTest-3 D:\Coding Projects\App business\MathQuiz_Source_v1\MathQuiz-Android\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
